@@ -25,7 +25,7 @@ This project analyzes the Black Friday dataset to answer the following questions
 - **Purchase Amount**: Men held around 77% of the total purchase amount.  
 - **Mean Purchase Amount**: Men and women are nearly equal—men ~52%, women ~48%.  
 
-
+<img width="324" height="298" alt="image" src="https://github.com/user-attachments/assets/f23fe509-e34d-4360-ad16-04df94a98405" /> <img width="636" height="304" alt="image" src="https://github.com/user-attachments/assets/f7dd9855-0bb3-4a11-97f1-2870294448d2" />
 
 ### 🎂 Age-Based Insights
 - **Majority Buyers**: Age group 26–35 followed by 36–45 and 18–25.  
@@ -34,6 +34,9 @@ This project analyzes the Black Friday dataset to answer the following questions
   - 36–45: 14.4% (highest)  
   - 26–35: 14.3%  
   - 18–25: 14.1%  
+
+<img width="649" height="368" alt="image" src="https://github.com/user-attachments/assets/3a75bdd9-ce77-49ba-ae22-3c7600cf85b9" /> <img width="351" height="347" alt="image" src="https://github.com/user-attachments/assets/53b3cd67-4cae-4c73-a21c-f563c0178cf3" />
+
 
 ### 🏷️ Top Products
 - **Highest Total Purchase Value**: `Product_ID P00025442` with >25 million USD.  
